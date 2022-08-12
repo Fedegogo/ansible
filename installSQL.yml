@@ -1,0 +1,4 @@
+---
+- name: Install SQL on Calidad
+  tasks:
+  - name: Test task
